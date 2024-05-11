@@ -6,15 +6,16 @@ The dataset was related to the features extracted from the cancerous masses in t
 
 In the data set provided to you, the type of cancer is written in the diagnosis column for each recorded data. Malignant (M) and benign (B)
 
-#Step 1- Exploratory data analysis
+# Step 1- Exploratory data analysis
 *   More detailed and statistical analysis
 *   Visualization ( histogram and heat map)
 *   Corrolation map
 
 # Step2- Data Preprocess
-Data preparation for modeling: spliting Data into train, test and validation sets.
-Encoding categorical features
-Standardization Data
+Data preparation for modeling:
+*   Spliting Data into train, test and validation sets.
+*   Encoding categorical features
+*   Standardization Data
 
 # Step3- Modeling Data
 *   Sequential
